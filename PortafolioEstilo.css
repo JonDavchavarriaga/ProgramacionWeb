@@ -1,0 +1,311 @@
+
+.CajaPersona { 
+	width:688px;
+	height:432px;
+	position:absolute;
+}
+.CajaPersona{ 
+	box-shadow:0px 4px 16px rgba(0, 0, 0, 0.3199999928474426);
+	background-color:rgba(255, 255, 255, 1);
+	width:688px;
+	height:432px;
+	position:absolute;
+	left:24px;
+	top:24px;
+  
+}
+.UrlNeocite { 
+	color:rgba(0, 0, 0, 1);
+	width: 140px;
+	height:16px;
+	position:absolute;
+	left: 166px;
+	top:331px;
+	font-family:Inter;
+	text-align:left;
+	font-size:16px;
+	letter-spacing:-2;
+}
+.GithubUser { 
+	color:rgba(0, 0, 0, 1);
+	width:84px;
+	height:16px;
+	position:absolute;
+	left:147px;
+	top: 285px;
+	font-family:Inter;
+	text-align:left;
+	font-size:16px;
+	letter-spacing:-2;
+}
+.email{ 
+	color:rgba(0, 0, 0, 1);
+	width:228px;
+	height:25px;
+	position:absolute;
+	left:148px;
+	top:169px;
+	font-family:Inter;
+	text-align:left;
+	font-size:16px;
+	letter-spacing:-2;
+}
+.Email { 
+	color:rgba(0, 0, 0, 1);
+	width:77px;
+	height:34px;
+	position:absolute;
+	left:44px;
+	top:161px;
+	font-family:Inter;
+	text-align:left;
+	font-size:28px;
+	letter-spacing:-2;
+}
+.Git { 
+	color:rgba(0, 0, 0, 1);
+	width:96px;
+	height:34px;
+	position:absolute;
+	left:44px;
+	top:274px;
+	font-family:Inter;
+	text-align:left;
+	font-size:28px;
+	letter-spacing:-2;
+}
+.Neocites{ 
+	color:rgba(0, 0, 0, 1);
+	width:123px;
+	height:34px;
+	position:absolute;
+	left:44px;
+	top:320px;
+	font-family:Inter;
+	text-align:left;
+	font-size:28px;
+	letter-spacing:-2;
+}
+.ImagenJonatan { 
+	width:271px;
+	height:252px;
+	position:absolute;
+	left:417px;
+	top:171px;	
+	background-repeat:no-repeat;
+	background-size:contain;
+}
+.Nombre { 
+	color:rgba(0, 0, 0, 1);
+	width:377px;
+	height:36px;
+	position:absolute;
+	left:311px;
+	top:72px;
+	font-family:Inter;
+	text-align:left;
+	font-size:30px;
+	letter-spacing:-2;
+}
+.IUElogo{ 
+	width:205px;
+	height:99px;
+	position:absolute;
+	left:38px;
+	top:37px;
+	background-image:url(images/IUE-logo.png);
+	background-repeat:no-repeat;
+	background-size:contain;
+}
+.Fondo
+{
+position: relative;
+width: 1440px;
+height: 1024px;
+
+background: #FEFBE9;
+}
+.CajaDiseño
+{
+    position: absolute;
+width: 333px;
+height: 330px;
+left: 731px;
+top: 24px;
+background: #FFFFFF;
+box-shadow: 0px 4px 16px rgba(0, 0, 0, 0.32);
+}
+.TDiseño
+{
+    position: absolute;
+    width: 98px;
+    height: 36px;
+    left: 849px;
+    top: 43px;
+    
+    /* Titulo */
+    
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 30px;
+    line-height: 36px;
+    letter-spacing: -0.02em;
+    
+    color: #000000;
+   
+}
+.CajaPresentacion{
+    position: absolute;
+    width: 688px;
+    height: 228px;
+    left: 24px;
+    top: 488px;
+    background: #FFFFFF;
+    box-shadow: 0px 4px 16px rgba(0, 0, 0, 0.32);
+
+}
+.TPresentacion
+{
+position: absolute;
+width: 185px;
+height: 36px;
+left: 62px;
+top: 518px;
+font-family: 'Inter';
+font-style: normal;
+font-weight: 600;
+font-size: 30px;
+line-height: 36px;
+letter-spacing: -0.02em;
+
+color: #000000;
+
+}
+.CajaTalleres
+{
+ position: absolute;
+width: 333px;
+height: 330px;
+left: 731px;
+top: 386px;
+background: #FFFFFF;
+box-shadow: 0px 4px 16px rgba(0, 0, 0, 0.32);
+}
+.TTalleres
+{
+    position: absolute;
+width: 110px;
+height: 36px;
+left: 843px;
+top: 423px;
+font-family: 'Inter';
+font-style: normal;
+font-weight: 600;
+font-size: 30px;
+line-height: 36px;
+letter-spacing: -0.02em;
+color: #000000;
+
+}
+.CajaRetos
+{
+    position: absolute;
+width: 333px;
+height: 330px;
+left: 1083px;
+top: 386px;
+background: #FFFFFF;
+box-shadow: 0px 4px 16px rgba(0, 0, 0, 0.32);
+}
+.TRetos
+{
+    position: absolute;
+width: 81px;
+height: 36px;
+left: 1195px;
+top: 427px;
+font-family: 'Inter';
+font-style: normal;
+font-weight: 600;
+font-size: 30px;
+line-height: 36px;
+letter-spacing: -0.02em;
+color: #000000;
+
+}
+.CajaPie{
+    position: absolute;
+    width: 1392px;
+    height: 220px;
+    left: 24px;
+    top: 748px;
+    
+    /* Blanco */
+    
+    background: #FFFFFF;
+    /* Sombra */
+    
+    box-shadow: 0px 4px 16px rgba(0, 0, 0, 0.32);
+}
+.CajaConsultas
+{
+ 
+position: absolute;
+width: 333px;
+height: 330px;
+left: 1083px;
+top: 24px;
+background: #FFFFFF;
+box-shadow: 0px 4px 16px rgba(0, 0, 0, 0.32);
+}
+.TConsultas
+{
+    position: absolute;
+    width: 142px;
+    height: 36px;
+    left: 1179px;
+    top: 43px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 30px;
+    line-height: 36px;
+    letter-spacing: -0.02em;
+
+    color: #000000;
+
+
+}
+.PrimerDiseño
+{
+	position: absolute;
+ 	top: 90px;
+ 	left: 28px;
+}
+.SegundoDiseño
+{
+	position: absolute;
+	top: 118px;
+	left: 28px;
+}
+.PrimerConsulta
+{
+	position: absolute;
+ 	top: 90px;
+ 	left: 28px;
+}
+.SegundaConsulta
+{
+ position:absolute;
+ top: 118px;
+ left: 28px;
+}
+.txtPresentacion
+{
+	position: absolute;
+	font-size: 12px;
+	top: 90px;
+	margin-left: 12px;
+	margin-right: 12px;
+}
