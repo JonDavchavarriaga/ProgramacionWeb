@@ -1,0 +1,28 @@
+body{
+    background-color: aqua;
+}
+table{
+    width: 800px;
+    height: 250px;
+    border-radius: 25px;
+    border-style: dotted;
+    border-color: black;
+    background-color: beige;
+}
+.tittabla{
+    background-color: rgb(43, 43, 44);
+    color: white;
+}
+td{
+    border-style: solid;
+    border-color: black;
+    
+}
+.tit1
+{
+ border-top-left-radius: 25px;
+}
+.tit2
+{
+border-top-right-radius: 25px;
+}
