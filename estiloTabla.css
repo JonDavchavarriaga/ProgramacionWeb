@@ -1,5 +1,6 @@
 body{
     background-color: aqua;
+    text-align: center;
 }
 table{
     width: 800px;
@@ -25,4 +26,13 @@ td{
 .tit2
 {
 border-top-right-radius: 25px;
+}
+form{
+    border-color:black ;
+    border-radius: 25px;
+    border-style: solid;
+    background-color: coral;
+    width: 280px;
+    height: 500px;
+    
 }

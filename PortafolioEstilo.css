@@ -309,3 +309,9 @@ box-shadow: 0px 4px 16px rgba(0, 0, 0, 0.32);
 	margin-left: 12px;
 	margin-right: 12px;
 }
+.PrimerTaller
+{
+	position:absolute;
+	top: 118px;
+	left: 28px;
+}

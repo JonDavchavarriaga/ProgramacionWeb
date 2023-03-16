@@ -1,0 +1,40 @@
+.cjPresentacion
+{
+    background-color:rgba(217, 217, 217, 1);
+    position: absolute;
+    width: 681px;
+    height: 315px;
+    left: 26px;
+    top: 26px;
+}
+.cjDatos
+{
+    background-color:rgba(217, 217, 217, 1);
+    
+    position: absolute;
+    width: 311px;
+    height: 212px;
+    left: 26px;
+    top: 364px;
+
+}
+.cjEducacion
+{
+    background-color:rgba(217, 217, 217, 1);
+    
+    position: absolute;
+    width: 311px;
+    height: 212px;
+    left: 26px;
+    top: 599px;
+
+}
+.cjSkills
+{
+    background-color:rgba(217, 217, 217, 1);
+    position: absolute;
+    width: 332px;
+    height: 447px;
+    top: 364px;
+    left: 366px;
+}

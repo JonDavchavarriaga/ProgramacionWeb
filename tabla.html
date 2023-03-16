@@ -52,8 +52,26 @@
         <td>100 mil</td>
         <td>3</td>
     </tr>
+</table>
+<hr>
+<form action="guardar.php" method="post">
+    <h2>Datos Personales</h2>
+    <label for="nombres">Nombres:</label>
+    <input type="text" name="nombres"><br><br>
+    <label for="apellidos">Apellidos:</label>
+    <input type="text" name="apellidos"><br><br>
+
+    <input type="email" name="email" placeholder="Digite correo Electronico"><br>
+    <label for="sexo">Sexo:</label>
+    <input type="radio" name="sexo" value="M">Masculino
+    <input type="radio" name="sexo" value="F" >femenino<br>
+    <label for="hobby1">Cine</label><input type="checkbox" name="hobby1" value="Cine">
+    <label for="hobby2">Natacion</label><input type="checkbox" name="hobby2" value="Natacion">
+    <label for="hobby3">Football</label><input type="checkbox" name="hobby3" value="Futbol"><br>
+    <input type="submit">
     
 
-    </table>
+
+</form>
 </body>
 </html>
