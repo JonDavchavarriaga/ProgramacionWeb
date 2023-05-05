@@ -42,6 +42,7 @@ nav{
  display: flex;
  gap: 2rem;
 }
+
 .main-contenedor
 {
     display:flex;
@@ -116,11 +117,7 @@ footer{
 
 @media screen and (min-width:800px)
 {
-    .contenedor{
-        display: flex;
-        flex-direction: column;
-        gap: 1rem;
-    }
+    
     .main-contenedor
     {
         display: grid;
@@ -136,12 +133,20 @@ footer{
     footer {
         margin-top: 2rem;
     }
+
   
 }
 @media screen and (min-width:1200px)
 {
     .Presentacion{
         flex-direction: row;
+    }
+    .contenedor{
+        display: flex;
+        flex-direction: column;
+    }
+    footer {
+        margin-top: 10rem;
     }
 }
  
