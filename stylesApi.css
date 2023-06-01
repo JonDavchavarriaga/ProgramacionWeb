@@ -52,3 +52,12 @@ article
     box-shadow: 0 0 10px #ccc;
     background-color: var(--AzulClaro);
 }
+@media screen and (min-width:800px)
+{
+    
+main{
+    display: flex;
+    flex-direction: column;
+}
+  
+}
